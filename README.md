@@ -15,7 +15,7 @@ Kiam vi tradukos kelkan kvanton da linioj, vi povos sendi tiujn al mi, por ke mi
 
 Pro la antaûnumerigo ne zorgu ke vi konfuzu min, mi enmetu viajn liniojn laû numeroj vice, sed elektu parton faran disde jam tradukataj (pro tio mi kontaktindas por eviti koliziojn kaj vanan laboron pro neantaûsciata nombro da partoprenantoj)
 
-Vi povas sendi al mi vian .txt dosieron. Mi mesaĝeblas ĉe Telegramo per tiu ĉi konto https://t.me/winterzx0, por ne uzi GitHub'on komplikan sistemon de proponoj kaj kunmetoj
+Vi povas sendi al mi vian .txt dosieron. Mi mesaĝeblas ĉe Telegramo per tiu ĉi konto https://t.me/winterzx0 (aû simple @winterzx0 per Telegrama serĉo de uzantoj). Mi decidis ne uzi GitHub'on komplikan sistemon de proponoj kaj kunmetoj, do tiu mesaĝilo aplikeblos.
 
 ### PROGRESO:
 
