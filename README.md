@@ -3,7 +3,7 @@
 
 [![video](https://github.com/vadimfedulov035/nitw_traduko/raw/main/cover.jpg)](https://www.youtube.com/watch?v=u17kM8oSz3k)
 
-Klaku sur bildon por spekti antaûvideon (trailer) pri ĝi
+Klaku sur bildon por spekti anticipfilmeton pri la ludo!
 
 ### Bonvenon al ĉiuj eblaj partoprenantoj en la esperantigo de "Night in the Woods" en "Nokto en la Arbaro"!
 
@@ -15,7 +15,7 @@ Kiam vi tradukos kelkan kvanton da linioj, vi povos sendi tiujn al mi, por ke mi
 
 Pro la antaûnumerigo ne zorgu ke vi konfuzu min, mi enmetu viajn liniojn laû numeroj vice, sed elektu parton faran disde jam tradukataj (pro tio mi kontaktindas por eviti koliziojn kaj vanan laboron pro neantaûsciata nombro da partoprenantoj)
 
-Vi povas sendi al mi vian .txt dosieron. Me mesaĝeblas ĉe Telegramo per tiu ĉi konto t.me/winterzx0, por ne uzi GitHub'on komplikan sistemon de proponoj kaj kunmetoj
+Vi povas sendi al mi vian .txt dosieron. Mi mesaĝeblas ĉe Telegramo per tiu ĉi konto https://t.me/winterzx0, por ne uzi GitHub'on komplikan sistemon de proponoj kaj kunmetoj
 
 ### PROGRESO:
 
