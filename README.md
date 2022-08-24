@@ -1,8 +1,7 @@
 # nitw_traduko
-## Traduko de NITW videoludo
+## Traduko de NITW videoludo (klaku sur bildon por spekti antaûvideon (trailer) pri ĝi
 
-![cover](https://github.com/vadimfedulov035/nitw_traduko/raw/main/cover.jpg)
-[![video](https://img.youtube.com/vi/u17kM8oSz3k/default.jpg)](https://youtu.be/u17kM8oSz3k)
+![video](https://github.com/vadimfedulov035/nitw_traduko/raw/main/cover.jpg)(https://www.youtube.com/watch?v=u17kM8oSz3k)
 
 ### Bonvenon al ĉiuj eblaj partoprenantoj en la esperantigo de "Night in the Woods" en "Nokto en la Arbaro"!
 
