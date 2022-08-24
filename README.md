@@ -1,5 +1,7 @@
-# nitw_taduko
+# nitw_traduko
 ## Traduko de NITW videoludo
+
+![cover](https://github.com/vadimfedulov035/nitw_traduko/raw/main/cover.jpg)
 
 ### Bonvenon al ĉiuj eblaj partoprenantoj en la traduko de "Night in the Woods" aû "Nokto en la Arbaro"!
 
