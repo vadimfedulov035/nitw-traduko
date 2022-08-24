@@ -1,7 +1,7 @@
 # nitw_traduko
 ## Traduko de NITW videoludo
 
-[![video](https://github.com/vadimfedulov035/nitw_traduko/raw/main/cover.jpg)](https://www.youtube.com/watch?v=u17kM8oSz3k)
+[![video](http://www.nightinthewoods.com/images/banner.jpg)](https://www.youtube.com/watch?v=u17kM8oSz3k)
 
 Klaku sur bildon por spekti anticipfilmeton pri la ludo!
 
