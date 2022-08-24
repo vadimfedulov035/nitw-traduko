@@ -1,4 +1,4 @@
-# nitw_traduko
+# nitw-traduko
 ## Traduko de NITW videoludo
 
 [![video](https://github.com/vadimfedulov035/nitw-traduko/raw/main/cover.png)](https://www.youtube.com/watch?v=u17kM8oSz3k)
@@ -7,7 +7,7 @@ Klaku sur bildon por spekti anticipfilmeton pri la ludo!
 
 ### Bonvenon al ĉiuj eblaj partoprenantoj en la esperantigo de "Night in the Woods" en "Nokto en la Arbaro"!
 
-Mi deziras krei la tradukon de tiu ĉi ludo kombinante la original anglan version kaj la tradukitan rusan por trovi mezon inter tiuj ĉi (mi estas ruso scipovanta la anglan do)
+Mi deziras krei la tradukon de tiu ĉi ludo kombinante la originalan anglan version kaj la tradukitan rusan por trovi mezon inter tiuj ĉi (mi estas ruso scipovanta la anglan do)
 
 Tial vi povas elŝuti ZIP-arĥivon kaj traduki liniojn (krom numeroj kaj nomoj, certe) per komparo kontraû via denaska lingvo (aû angla, aû rusa)
 
