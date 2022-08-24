@@ -7,13 +7,16 @@ Mi deziras krei la tradukon de tiu ĉi ludo kombinante la original anglan versio
 
 Tial vi povas elŝuti ZIP-arĥivon kaj traduki liniojn (krom numerojn kaj nomojn, certe) per komparo kontraû via denaska lingvo (aû angla, aû rusa)
 
-Kiam vi tradukos kelkan kvanton da linioj, vi povos sendi tiujn al mi, por ke mi aldonu tiujn al "Esperantaj frazoj.txt" post analizo por kombini ĝuste
+Kiam vi tradukos kelkan kvanton da linioj, vi povos sendi tiujn al mi, por ke mi aldonu tiujn al "Esperantaj frazoj.txt" post analizo por kombini ambaû versioj ĝuste
 
-Pro la antaûnumerigo ne zorgu ke vi konfuzu min, mi uzu viajn liniojn laû numeroj, sed elektu parton faran disde jam tradukataj (pro tio mi kontaktindas, mi ne scias kiom da homoj ekdeziros partopreni)
+Pro la antaûnumerigo ne zorgu ke vi konfuzu min, mi enmetu viajn liniojn laû numeroj vice, sed elektu parton faran disde jam tradukataj (pro tio mi kontaktindas, mi ne scias kiom da homoj ekdeziros partopreni)
 
-Vi povas sendi al mi vian .txt dosieron. Me mesaĝeblas per nomo @winter.zx0 ĉe Telegramo, por ne uzi GitHubo'n komplikan sistemon de proponoj kaj kunmetoj
+Vi povas sendi al mi vian .txt dosieron. Me mesaĝeblas per nomo @winterzx0 ĉe Telegramo, por ne uzi GitHub'on komplikan sistemon de proponoj kaj kunmetoj
 
-PROGRESO:
+### PROGRESO:
+
 88 / 24993 = 0.35% (kontroleblas ĉe https://api.mathjs.org/v4/?expr=88/24993*100)
 
-RONDIGITA PROGRESO: ![](https://geps.dev/progress/0)
+### RONDIGITA PROGRESO:
+
+![](https://geps.dev/progress/0)
