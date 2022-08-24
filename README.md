@@ -9,13 +9,13 @@ Klaku sur bildon por spekti antaûvideon (trailer) pri ĝi
 
 Mi deziras krei la tradukon de tiu ĉi ludo kombinante la original anglan version kaj la tradukitan rusan por trovi mezon inter tiuj ĉi (mi estas ruso scipovanta la anglan do)
 
-Tial vi povas elŝuti ZIP-arĥivon kaj traduki liniojn (krom numerojn kaj nomojn, certe) per komparo kontraû via denaska lingvo (aû angla, aû rusa)
+Tial vi povas elŝuti ZIP-arĥivon kaj traduki liniojn (krom numeroj kaj nomoj, certe) per komparo kontraû via denaska lingvo (aû angla, aû rusa)
 
-Kiam vi tradukos kelkan kvanton da linioj, vi povos sendi tiujn al mi, por ke mi aldonu tiujn al "esperantaj frazoj.txt" post analizo por kombini ambaû versioj ĝuste
+Kiam vi tradukos kelkan kvanton da linioj, vi povos sendi tiujn al mi, por ke mi aldonu tiujn al "esperantaj frazoj.txt" post analizo por kombini ambaû versiojn ĝuste
 
-Pro la antaûnumerigo ne zorgu ke vi konfuzu min, mi enmetu viajn liniojn laû numeroj vice, sed elektu parton faran disde jam tradukataj (pro tio mi kontaktindas, mi ne scias kiom da homoj ekdeziros partopreni)
+Pro la antaûnumerigo ne zorgu ke vi konfuzu min, mi enmetu viajn liniojn laû numeroj vice, sed elektu parton faran disde jam tradukataj (pro tio mi kontaktindas por eviti koliziojn kaj vanan laboron pro neantaûsciata nombro da partoprenantoj)
 
-Vi povas sendi al mi vian .txt dosieron. Me mesaĝeblas per nomo @winterzx0 ĉe Telegramo, por ne uzi GitHub'on komplikan sistemon de proponoj kaj kunmetoj
+Vi povas sendi al mi vian .txt dosieron. Me mesaĝeblas ĉe Telegramo per tiu ĉi konto t.me/winterzx0, por ne uzi GitHub'on komplikan sistemon de proponoj kaj kunmetoj
 
 ### PROGRESO:
 
