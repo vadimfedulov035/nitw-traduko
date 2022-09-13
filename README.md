@@ -11,7 +11,7 @@ Mi deziras krei la tradukon de tiu ĉi ludo kombinante la originalan anglan vers
 
 Tial vi povas elŝuti ZIP-arĥivon kaj traduki liniojn (krom numeroj kaj nomoj, certe) per komparo kontraû via denaska lingvo (aû angla, aû rusa)
 
-Kiam vi tradukos kelkan kvanton da linioj, vi povos sendi tiujn al mi, por ke mi aldonu tiujn al "esperantaj frazoj.txt" post analizo por kombini ambaû versiojn ĝuste
+Kiam vi tradukos kelkan kvanton da linioj, vi povos sendi tiujn al mi, por ke mi aldonu tiujn al "Esperantaj frazoj.txt" post analizo por kombini ambaû versiojn ĝuste
 
 Pro la antaûnumerigo ne zorgu ke vi konfuzu min, mi enmetu viajn liniojn laû numeroj vice, sed elektu parton faran disde jam tradukataj (pro tio mi kontaktindas por eviti koliziojn kaj vanan laboron pro neantaûsciata nombro da partoprenantoj)
 
