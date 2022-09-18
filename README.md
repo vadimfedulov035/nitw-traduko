@@ -8,14 +8,8 @@ Klaku sur bildon por spekti anticipfilmeton pri la ludo!
 ### Bonvenon al ĉiuj eblaj partoprenantoj en la esperantigo de "Night in the Woods" en "Nokto en la Arbaro"!
 
 Mi deziras krei la tradukon de tiu ĉi ludo kombinante la originalan anglan version kaj la tradukitan rusan por trovi mezon inter tiuj ĉi (mi estas ruso scipovanta la anglan do)
-
-Tial vi povas elŝuti ZIP-arĥivon kaj traduki liniojn (krom numeroj kaj nomoj, certe) per komparo kontraû via denaska lingvo (aû angla, aû rusa)
-
-Kiam vi tradukos kelkan kvanton da linioj, vi povos sendi tiujn al mi, por ke mi aldonu tiujn al "Esperantaj frazoj.txt" post analizo por kombini ambaû versiojn ĝuste
-
-Pro la antaûnumerigo ne zorgu ke vi konfuzu min, mi enmetu viajn liniojn laû numeroj vice, sed elektu parton faran disde jam tradukataj (pro tio mi kontaktindas por eviti koliziojn kaj vanan laboron pro neantaûsciata nombro da partoprenantoj)
-
-Vi povas sendi al mi vian .txt dosieron. Mi mesaĝeblas ĉe Telegramo per tiu ĉi konto https://t.me/winterzx0 (aû simple @winterzx0 per Telegrama serĉo de uzantoj). Mi decidis ne uzi GitHub'on komplikan sistemon de proponoj kaj kunmetoj, do tiu mesaĝilo aplikeblos.
+Celante faciligi la laboron mi refaris la tutan projekton: nun ĉio malsame de filmetaj ideoj estas publikigita en .xlsx dosieroj kaj ekzistas la kanalo kun la grupo por
+partoprenantoj: https://t.me/nitw_traduko Unue tralegu la regulojn sur klariganta bildo kaj aliĝu al la grupo poste por skribi elektitan por traduki dosieron.
 
 ### PROGRESO:
 
