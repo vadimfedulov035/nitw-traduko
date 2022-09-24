@@ -13,8 +13,8 @@ partoprenantoj: https://t.me/nitw_traduko Unue tralegu la regulojn sur klarigant
 
 ### PROGRESO:
 
-88 / 24993 = 0.35% (kontroleblas ĉe https://api.mathjs.org/v4/?expr=88/24993*100)
+340 / 24993 = 1.36% (kontroleblas ĉe https://api.mathjs.org/v4/?expr=340/24993*100)
 
 ### RONDIGITA PROGRESO:
 
-![](https://geps.dev/progress/0)
+![](https://geps.dev/progress/1)
